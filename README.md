@@ -65,12 +65,12 @@ To validate queries:
 ### Query Example
 Input:
 ```text
-How much money does a player start with in Monopoly?
+Your question 1?
 ```
 Output:
 ```text
-Response: $1500
-Sources: ["data/monopoly_rules.pdf:2:1"]
+Response: Your expected answer
+Sources: ["data/your_uploaded_pdf.pdf:2:1"]
 ```
 
 ### Test Output
